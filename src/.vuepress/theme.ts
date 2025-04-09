@@ -6,10 +6,7 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   // hostname: "https://mister-hope.github.io",
 
-  author: {
-    name: "Chains",
-    url: "",
-  },
+  author: "Chains",
 
   // logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
@@ -38,9 +35,9 @@ export default hopeTheme({
   },
 
   // 多语言配置
-  // metaLocales: {
-  //   editLink: "在 GitHub 上编辑此页",
-  // },
+  metaLocales: {
+ 
+  },
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
   // hotReload: true,
@@ -79,42 +76,6 @@ export default hopeTheme({
     tasklist: true,
     vPre: true,
 
-    // 取消注释它们如果你需要 TeX 支持
-    // math: {
-    //   // 启用前安装 katex
-    //   type: "katex",
-    //   // 或者安装 mathjax-full
-    //   type: "mathjax",
-    // },
-
-    // 如果你需要幻灯片，安装 @vuepress/plugin-revealjs 并取消下方注释
-    // revealjs: {
-    //   plugins: ["highlight", "math", "search", "notes", "zoom"],
-    // },
-
-    // 在启用之前安装 chart.js
-    // chartjs: true,
-
-    // insert component easily
-
-    // 在启用之前安装 echarts
-    // echarts: true,
-
-    // 在启用之前安装 flowchart.ts
-    // flowchart: true,
-
-    // 在启用之前安装 mermaid
-    // mermaid: true,
-
-    // playground: {
-    //   presets: ["ts", "vue"],
-    // },
-
-    // 在启用之前安装 @vue/repl
-    // vuePlayground: true,
-
-    // 在启用之前安装 sandpack-vue3
-    // sandpack: true,
   },
 
   // 在这里配置主题提供的插件
