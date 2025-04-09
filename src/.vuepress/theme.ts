@@ -31,7 +31,8 @@ export default hopeTheme({
     },
   },
 
-  // 多语言配置
+  contributors: false,
+  
   metaLocales: {
     
   },
@@ -72,7 +73,8 @@ export default hopeTheme({
     tabs: true,
     tasklist: true,
     vPre: true,
-
+    
+    
   },
 
   // 在这里配置主题提供的插件

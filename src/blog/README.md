@@ -1,6 +1,5 @@
 ---
 title: 随笔
-contributors: false
 index: false
 category:
   - 随笔

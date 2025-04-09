@@ -1,6 +1,5 @@
 ---
 title: 主页
-contributors: false
 toc: false
 ---
 
