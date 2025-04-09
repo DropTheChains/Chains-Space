@@ -1,3 +1,8 @@
+---
+contributors: false
+
+---
+
 # Git常用命令汇总
 ## 一、Git安装后-指定名称和邮箱
 

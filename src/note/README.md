@@ -1,5 +1,6 @@
 ---
 title: 笔记
+contributors: false
 index: false
 category:
   - 学习笔记

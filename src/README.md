@@ -1,6 +1,7 @@
 ---
 title: 主页
-
+contributors: false
+toc: false
 ---
 
 欢迎到访我的个人空间，点击上面的链接或许对你有帮助。
