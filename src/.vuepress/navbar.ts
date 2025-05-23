@@ -4,5 +4,5 @@ export default navbar([
   "/",
   "/note/",
   "/blog/",
-  
+  "/netcollect/"
 ]);
